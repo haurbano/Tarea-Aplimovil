@@ -1,0 +1,70 @@
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Colores.dll
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Colores.pdb
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\resources.pri
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\AppxManifest.xml
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Colores.build.appxrecipe
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\AppManifest.xaml
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\Bin\Debug\Colores_Debug_AnyCPU.xap
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\App.g.cs
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\MainPage.g.cs
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\Colores.g.resources
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\Colores.Resources.AppResources.resources
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\Colores.csproj.GenerateResource.Cache
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\Colores.dll
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\Colores.pdb
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\priconfig.xml
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\priconfig.xml.intermediate
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\layout.resfiles
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\layout.resfiles.intermediate
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\resources.resfiles
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\resources.resfiles.intermediate
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\pri.resfiles
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\pri.resfiles.intermediate
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\qualifiers.txt
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\qualifiers.txt.intermediate
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\ProjectArchitectures.txt
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\MDILProjectFiles.xml
+c:\users\dianam\documents\visual studio 2013\Projects\Colores\Colores\obj\Debug\XapCacheFile.xml
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Assets\ApplicationIcon.png
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Colores.dll
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Colores.pdb
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\resources.pri
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\AppxManifest.xml
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Colores.build.appxrecipe
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Properties\WMAppManifest.xml
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\AppManifest.xaml
+J:\Api movil\Proyectos\ColoresH\Colores\Bin\Debug\Colores_Debug_AnyCPU.xap
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\App.g.cs
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\MainPage.g.cs
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\Colores.g.resources
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\Colores.Resources.AppResources.resources
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\Colores.csproj.GenerateResource.Cache
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\Colores.dll
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\Colores.pdb
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\priconfig.xml
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\priconfig.xml.intermediate
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\layout.resfiles
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\layout.resfiles.intermediate
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\resources.resfiles
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\resources.resfiles.intermediate
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\pri.resfiles
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\pri.resfiles.intermediate
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\qualifiers.txt
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\qualifiers.txt.intermediate
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\ProjectArchitectures.txt
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\MDILProjectFiles.xml
+J:\Api movil\Proyectos\ColoresH\Colores\obj\Debug\XapCacheFile.xml
